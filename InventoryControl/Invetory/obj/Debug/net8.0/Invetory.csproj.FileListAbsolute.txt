@@ -1,0 +1,14 @@
+C:\Users\47349403801\Desktop\InventoryControl\Invetory\obj\Debug\net8.0\Invetory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47349403801\Desktop\InventoryControl\Invetory\obj\Debug\net8.0\Invetory.AssemblyInfoInputs.cache
+C:\Users\47349403801\Desktop\InventoryControl\Invetory\obj\Debug\net8.0\Invetory.AssemblyInfo.cs
+C:\Users\47349403801\Desktop\InventoryControl\Invetory\obj\Debug\net8.0\Invetory.csproj.CoreCompileInputs.cache
+C:\Users\47349403801\Desktop\InventoryControl\Invetory\bin\Debug\net8.0\Invetory.exe
+C:\Users\47349403801\Desktop\InventoryControl\Invetory\bin\Debug\net8.0\Invetory.deps.json
+C:\Users\47349403801\Desktop\InventoryControl\Invetory\bin\Debug\net8.0\Invetory.runtimeconfig.json
+C:\Users\47349403801\Desktop\InventoryControl\Invetory\bin\Debug\net8.0\Invetory.dll
+C:\Users\47349403801\Desktop\InventoryControl\Invetory\bin\Debug\net8.0\Invetory.pdb
+C:\Users\47349403801\Desktop\InventoryControl\Invetory\obj\Debug\net8.0\Invetory.dll
+C:\Users\47349403801\Desktop\InventoryControl\Invetory\obj\Debug\net8.0\refint\Invetory.dll
+C:\Users\47349403801\Desktop\InventoryControl\Invetory\obj\Debug\net8.0\Invetory.pdb
+C:\Users\47349403801\Desktop\InventoryControl\Invetory\obj\Debug\net8.0\Invetory.genruntimeconfig.cache
+C:\Users\47349403801\Desktop\InventoryControl\Invetory\obj\Debug\net8.0\ref\Invetory.dll
